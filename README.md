@@ -21,6 +21,9 @@ You may also see any lint errors in the console.
 To start the server firstly change the directory
 `cd server`
 Then enter npm run dev to run the server.
+![Screenshot 2022-05-10 182313](https://user-images.githubusercontent.com/72156168/167633472-84ceac93-7245-481d-930c-51e9d467f9e1.png)
+![Screenshot 2022-05-10 182538](https://user-images.githubusercontent.com/72156168/167633543-ea9a7d48-2729-4f92-9ebe-77da7e3327e1.png)
+![Screenshot 2022-05-10 182604](https://user-images.githubusercontent.com/72156168/167633575-57f25218-3286-48ab-83ce-6b57b0210dc7.png)
 
 
 ### `npm test`
